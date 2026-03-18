@@ -8,6 +8,9 @@
 - [HoYoverse Shaders for Blender/Goo Engine](https://github.com/festivities/Blender-miHoYo-Shaders)
 - [Robust Weight Transfer](https://github.com/sentfromspacevr/robust-weight-transfer)
 - [ucupaint](https://github.com/ucupumar/ucupaint)
+- [XXMI-QuickImport](https://github.com/Seris0/QuickImportXXMI)
+- [XXMI-Tools](https://github.com/leotorrez/XXMITools)
+- [WWMI-Tools](https://github.com/SpectrumQT/WWMI-Tools)
 
 # My Paint.NET Addon List
 - [BoltBaitPack](https://forums.getpaint.net/BoltBaitPluginPack)
